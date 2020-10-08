@@ -8,13 +8,13 @@ Real time picture capture and play with different Deep Dream feature buttons on 
 [Youtube video Link](https://www.youtube.com/watch?v=E3L-Fo1770U)
 
 
-### Aplication screenshot
+### Tkinter Application screenshot
 
 <img src="https://github.com/Boltuzamaki/Deep-Dream-Tkinter-App/blob/master/Pic/Screenshot%20(6594).png" />
 
 
 
-### Run this commands on your terminal
+### Run these commands on your anaconda terminal
 
 ```sh
 pip install requirements.py
