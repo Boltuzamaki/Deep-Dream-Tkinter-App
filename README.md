@@ -12,13 +12,7 @@ Real time picture capture and play with different Deep Dream feature buttons on 
 
 <img src="https://github.com/Boltuzamaki/Deep-Dream-Tkinter-App/blob/master/Pic/Screenshot%20(6594).png" />
 
-### Webcam clicked Pic
 
-<img src="https://github.com/Boltuzamaki/Deep-Dream-Tkinter-App/blob/master/Pic/image.jpg" />
-
-### Transformed Pic
-
-<img src="https://github.com/Boltuzamaki/Deep-Dream-Tkinter-App/blob/master/Pic/transformed.png" />
 
 ### Run this commands on your terminal
 
